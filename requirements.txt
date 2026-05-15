@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-community
+langchainhub
+python-dotenv
+langchain_groq
+langchain_huggingface
+sentence-transformers
+bs4
